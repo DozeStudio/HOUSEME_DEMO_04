@@ -1,9 +1,8 @@
 {
- "theme_color": "#FFFFFF",
- "name": "House Me Taquaral",
- "background_color": "#FFFFFF",
  "display": "fullscreen",
- "start_url": "index.htm?installed=true",
+ "background_color": "#FFFFFF",
+ "name": "FUNDO DE TELA",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png",
    "sizes": "64x64"
   }
- ]
+ ],
+ "start_url": "index.htm?installed=true"
 }
